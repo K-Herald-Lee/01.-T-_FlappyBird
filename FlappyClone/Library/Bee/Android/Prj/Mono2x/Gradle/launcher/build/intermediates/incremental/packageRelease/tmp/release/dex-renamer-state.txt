@@ -1,0 +1,4 @@
+#Thu Nov 17 14:47:43 EST 2022
+base.0=D\:\\21.GameDevelop\\Projects\\FlappyClone\\Library\\Bee\\Android\\Prj\\Mono2x\\Gradle\\launcher\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

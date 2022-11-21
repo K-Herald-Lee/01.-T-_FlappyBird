@@ -1,0 +1,20 @@
+{
+"instructions_readme": "1) Open Chrome, 2) go to chrome://tracing, 3) click Load, 4) navigate to this file.",
+
+"traceEvents":[
+{ "pid": "Unity", "ph":"M", "name": "process_name", "args": {"name": "Unity"} },
+{ "pid": "Unity", "ph":"M", "name": "process_sort_index", "args": {"sort_index": -100} },
+{ "pid": "Unity", "tid": 1, "ph":"M", "name": "thread_name", "args": {"name": ""} },
+{ "pid": "Unity", "tid": 1,"ts": 1.66871807286914E+15,"dur": 2308951, "ph":"X", "name": "Build player"},
+{ "pid": "Unity", "tid": 1,"ts": 1.66871807287944E+15,"dur": 467627, "ph":"X", "name": "Preprocess Player"},
+{ "pid": "Unity", "tid": 1,"ts": 1.66871807335666E+15,"dur": 1770024, "ph":"X", "name": "Prepare For Build"},
+{}
+
+],
+"meta_datetime": "11/17/2022 15:47:55",
+"meta_command_line": "D:\\21.GameDevelop\\UnityEditor\\2021.3.13f1\\Editor\\Unity.exe -projectpath D:\\21.GameDevelop\\Projects\\FlappyClone -useHub -hubIPC -cloudEnvironment production -licensingIpc LicenseClient-g8zXP-YarU-4IR8dfr37z -hubSessionId 2384ea40-6655-11ed-ab4f-5945a315cda7 -accessToken 0bky3ok1bb_ANrKYKELZDMlQdP2mjXEx0CfR-21sxvA003f",
+"meta_command_line_args": "D:\\21.GameDevelop\\UnityEditor\\2021.3.13f1\\Editor\\Unity.exe -projectpath D:\\21.GameDevelop\\Projects\\FlappyClone -useHub -hubIPC -cloudEnvironment production -licensingIpc LicenseClient-g8zXP-YarU-4IR8dfr37z -hubSessionId 2384ea40-6655-11ed-ab4f-5945a315cda7 -accessToken 0bky3ok1bb_ANrKYKELZDMlQdP2mjXEx0CfR-21sxvA003f",
+"meta_user_name": "rainh",
+"meta_os_version": "Microsoft Windows NT 10.0.19044.0",
+"meta_cpu_count": "12"
+}
